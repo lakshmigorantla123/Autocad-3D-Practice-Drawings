@@ -26,7 +26,7 @@ To demonstrate my AutoCAD 3D modeling skills through practice projects.
 
 Files
 
-- PNG Preview
+- DWG File
 - PDF Drawing
 
 Designed and Drawn by
